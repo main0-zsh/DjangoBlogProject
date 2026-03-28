@@ -48,13 +48,3 @@ python manage.py runserver
 
 📝 Статус проекта
 Проект находится в стадии активной разработки и наполнения портфолио.
-
-
-### Как добавить это через терминал (на Linux Mint):
-1. В папке проекта создай файл: `nano README.md`
-2. Вставь текст (Ctrl+Shift+V) и сохрани (Ctrl+O, затем Enter, затем Ctrl+X).
-3. Обнови проект на GitHub:
-```bash
-git add README.md
-git commit -m "Добавлено полное описание проекта"
-git push origin main
